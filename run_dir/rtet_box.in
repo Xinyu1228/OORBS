@@ -1,6 +1,6 @@
 rtet_box.out
 rtet box 1
-StaticStructural nsteps 10 nmodules 1 profileopt 1 manrmsteps 4000 maxiter 3000 maxinc .1
+StaticStructural nsteps 20 nmodules 1 profileopt 1 manrmsteps 4000 maxiter 3000 maxinc .1
 # using DSS solver
 #StaticStructural nsteps 20 nmodules 0 manrmsteps 20 profileopt 1 maxiter 500 lstype 4 smtype 8
 #possible options:
